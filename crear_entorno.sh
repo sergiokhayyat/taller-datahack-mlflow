@@ -12,5 +12,4 @@ conda install python jupyter scikit-learn
 pip install mlflow
 
 # Arrancar jupyer
-jupyer notebook
-
+jupyter notebook

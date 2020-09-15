@@ -1,5 +1,5 @@
 # taller-datahack-mlflow
-Material para el taller de MLflow el 16/09/2020 en Datahack (online)
+Material para el taller de [MLflow](https://mlflow.org/) el 16/09/2020 en Datahack (online)
 
 0. Crear entorno para el taller
     1. `crear_entorno.sh` - Instrucciones para crear el entorno de trabajo del taller
